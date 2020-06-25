@@ -1,5 +1,8 @@
 _repo: Historia-del-Paraguay-Rio-de-La-Plata-y-Tucuman_62450
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62450-h/images/cover.jpg
 creator:
   author:
     agent_name: Guevara, José
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '51947'
     url: http://www.gutenberg.org/2009/agents/51947
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62450#Historia-del-Paraguay-Rio-de-La-Plata-y-Tucuman
 gutenberg_issued: '2020-06-22'
 gutenberg_type: Text
 identifiers:
