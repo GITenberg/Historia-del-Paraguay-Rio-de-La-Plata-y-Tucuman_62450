@@ -1,0 +1,29 @@
+_repo: Historia-del-Paraguay-Rio-de-La-Plata-y-Tucuman_62450
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Guevara, José
+    alias: Guevara, Jose
+    birthdate: 1719
+    deathdate: 1806
+    gutenberg_agent_id: '51947'
+    url: http://www.gutenberg.org/2009/agents/51947
+description: ''
+gutenberg_issued: '2020-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62450'
+  lccn: 05041839
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Argentina -- History -- To 1810'
+- !lcc 'F2801'
+- !lcsh 'Tucumán (Argentina : Gobernación)'
+- !lcsh 'Indians of South America -- Paraguay'
+- !lcsh 'Paraguay -- History -- To 1811'
+- GITenberg
+title: Historia del Paraguay, Río de La Plata y Tucumán
+url: http://www.gutenberg.org/ebooks/62450
